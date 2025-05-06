@@ -1,6 +1,6 @@
 # ⚡ Integrated Modeling and Energy Optimization of Combined Heat and Power (CHP) Systems
 
-This project focuses on improving the thermal and environmental efficiency of CHP systems through advanced modeling, simulation, and carbon capture integration. Developed as part of an academic initiative at ASU (Dec 2023), the work emphasizes real-world implementation potential.
+This project focuses on improving the thermal and environmental efficiency of CHP systems through advanced modeling, simulation, and carbon capture integration. 
 
 ---
 
