@@ -1,10 +1,10 @@
-# ⚡ Integrated Modeling and Energy Optimization of Combined Heat and Power (CHP) Systems
+#  Integrated Modeling and Energy Optimization of Combined Heat and Power (CHP) Systems
 
 This project focuses on improving the thermal and environmental efficiency of CHP systems through advanced modeling, simulation, and carbon capture integration. 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Combined Heat and Power (CHP), or cogeneration, generates electricity and usable heat simultaneously. This project integrates:
 
@@ -15,13 +15,13 @@ Combined Heat and Power (CHP), or cogeneration, generates electricity and usable
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Traditional energy systems discharge large amounts of heat and pollutants. CHP systems can mitigate this waste, but limitations remain in optimizing fuel use, turbine performance, and emissions control. There is a pressing need for integrated design and simulation approaches to address these inefficiencies.
 
 ---
 
-## 💡 Solution Approach
+##  Solution Approach
 
 - Modeled and simulated a complete CHP system in **SOLIDWORKS** and **ANSYS**
 - Integrated **Phase Change Materials (PCMs)** and optimized piping geometry to enhance waste heat recovery
@@ -30,7 +30,7 @@ Traditional energy systems discharge large amounts of heat and pollutants. CHP s
 
 ---
 
-## ⚙️ Technical Highlights
+##  Technical Highlights
 
 - **Geometry Design:**
   - Heat exchanger pipe: 500 mm length, 280 mm PCM layer
@@ -45,7 +45,7 @@ Traditional energy systems discharge large amounts of heat and pollutants. CHP s
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - **CO₂ Emissions** reduced by **64%** → from **242 to 86 tons**
 - **NOₓ Emissions** reduced by **99.5%** → from **12 to 0.06 tons**
